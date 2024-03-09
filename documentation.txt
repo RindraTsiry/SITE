@@ -1,0 +1,47 @@
+GitHub C’est Quoi et Comment L’utiliser ? Guide Complet (2023)
+GitHub est considéré comme un outil essentiel pour les ingénieurs logiciels, et sa popularité est inégalée. Il accueille actuellement plus de 25 millions d’utilisateurs. C’est un nombre considérable de professionnels qui se tournent vers GitHub pour améliorer le flux de travail et la collaboration.
+
+Pour mieux comprendre ce qu’est GitHub et comment il fonctionne, nous devons regarder plus en profondeur.
+
+Qu’est-ce que le contrôle de version ?
+Le contrôle de version est un système qui permet de suivre et de gérer les modifications apportées à un fichier ou à un ensemble de fichiers. Principalement utilisé par les ingénieurs logiciels pour suivre les modifications apportées au code source, le système de contrôle de version est un élément indispensable dans la boite à outils de ces professionnels. Il leur permet d’analyser toutes les modifications et de les annuler sans répercussion en cas d’erreur.
+
+En d’autres termes, le contrôle de version permet aux développeurs de travailler simultanément sur des projets. Il leur permet d’apporter autant de modifications qu’ils le souhaitent sans empiéter sur le travail de leurs collègues ni le retarder.
+
+Si lesdites modifications du code source ruinent le projet au moment de leur déploiement, GitHub permet de les annuler facilement en quelques clics, et la version précédente du projet sera ramenée. Aucune mise à jour ne nuit donc au projet.
+
+En résumé, le contrôle de version élimine les risques et les aléas de faire trop d’erreurs. Au contraire, il offre la liberté de collaborer et de développer sans trop d’inquiétude.
+
+Qu’est-ce que Git ?
+Git est un projet open-source qui a été lancé en 2005 et qui est devenu l’un des VCS les plus populaires du marché – plus de 87% des développeurs utilisent Git pour leurs projets.
+
+Il s’agit d’un système de contrôle de version distribué. Cela signifie que tout développeur de l’équipe ayant un accès autorisé peut gérer le code source et l’historique des modifications à l’aide des outils de ligne de commande Git.
+
+Contrairement aux systèmes de contrôle de version centralisés, Git offre des branches de fonctionnalités. Cela signifie que chaque ingénieur logiciel de l’équipe peut créer une branche de fonctionnalité qui fournit un dépôt local isolé pour apporter des modifications au code.
+
+Les branches de fonctionnalités n’affectent pas la branche principale, où se trouve le code original du projet. Une fois les modifications effectuées et le code mis à jour prêt, la branche de fonctionnalité peut être fusionnée avec la branche principale, et c’est ainsi que les modifications apportées au projet deviennent effectives.
+
+Alors qu’est-ce que GitHub et pourquoi est-il si populaire ?
+GitHub héberge plus de 100 millions de dépôts, dont la majorité sont des projets open-source. Cette statistique montre que GitHub fait partie des clients GUI Git les plus populaires et est utilisé par divers professionnels et grandes entreprises, comme Hostinger.
+
+
+En effet, GitHub est une plateforme de gestion et d’organisation de projets basée sur le cloud qui intègre les fonctions de contrôle de version de Git. En d’autres termes, tous les utilisateurs de GitHub peuvent suivre et gérer les modifications apportées au code source en temps réel tout en ayant accès à toutes les autres fonctions de Git disponibles au même endroit.
+
+De plus, l’interface utilisateur de GitHub est plus conviviale que celle de Git, ce qui la rend accessible aux personnes qui ne possèdent que peu ou pas de connaissances techniques. Cela signifie qu’un plus grand nombre de membres de l’équipe peuvent être inclus dans l’avancement et la gestion d’un projet, ce qui rend le processus de développement plus fluide.
+
+Comment démarrer avec GitHub ?
+Vous pouvez essayer gratuitement GitHub avec votre équipe. Il existe un plan de base qui comprend un nombre illimité de dépôts et de collaborateurs, mais seulement 500 Mo d’espace de stockage.
+
+Pour un aperçu plus complet des nombreuses fonctionnalités de GitHub, vous pouvez choisir l’un de ses plans payants.
+
+Plans GitHub pour les développeurs
+Une fois que vous aurez choisi un plan, rempli les détails requis et terminé le processus d’enregistrement, vous pourrez commencer à explorer ce que GitHub détient à offrir. Contrairement à Git, GitHub ne nécessite aucun codage ou utilisation de la ligne de commande.
+
+1. Créer un dépôt GitHub
+Un dépôt, ou repo, sera le centre de votre projet. Il peut s’agir d’un fichier ou d’une collection de fichiers contenant du code, des images, du texte ou tout autre élément.
+
+Pour commencer le processus, suivez les étapes suivantes :
+
+Cliquez sur Créer un dépôt pour démarrer un nouveau projet
+étape 1 sur Github pour créer un nouveau référentiel
+2. La section Owner aura déjà votre nom de compte. Créez un nom de dépôt. Vérifiez s’il est défini sur Public pour le rendre open-source, puis cochez la case Ajouter un fichier README. Enfin, cliquez sur Créer un dépôt.
